@@ -1,1 +1,1 @@
-# portfolio
+# If your publishing source is a branch and folder, the entry file must be at the top level of the source folder on the source branch.  For example, if your publishing source is the /docs folder on the main branch, your entyr file must be located in the /docs folder on a branch called main.
